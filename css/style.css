@@ -101,6 +101,9 @@ header nav:hover ul {
     font-size: 19px;
     line-height: 1.8;
 }
+section .container {
+    padding-bottom: 50px;
+}
 .features {
     text-align: center;
     background-color: #f6f6f6;
@@ -193,6 +196,7 @@ p {
   }
 .portfolio{
     background-color: #f6f6f6; 
+    /* padding-bottom: 100px; */
 }
 .portfolio-content{
     display: grid;
@@ -275,7 +279,6 @@ p {
 }
 .contact {
     background-color: #f6f6f6;
-    padding-bottom:100px;
 }
 .contact .details-contact {
     display: flex;
